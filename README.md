@@ -1,3 +1,3 @@
-# first-tensorflow-neuronal-net
+# first-tensorflow-neural-net
 
-Testing small neuronal network tensorflow with some dataset
+Testing small neural network tensorflow with some dataset
